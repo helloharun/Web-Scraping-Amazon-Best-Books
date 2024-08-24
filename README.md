@@ -26,3 +26,5 @@ This project is a web scraping script that extracts the best books from Amazon's
 9. You can also use the script as a starting point for your own web scraping project
 10. You can also use the script to scrape different websites by modifying the URL and the parsing logic
 
+
+#### Feel free to fork this repo and experiment with the code.
